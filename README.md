@@ -1,6 +1,8 @@
 <div style="text-align: center;">
     <img src="images/banner.png" alt="Banner curso" style="width:80%">
-</div>
+</div>  
+
+
 
 # Bienvenidos al curso.
 ---
@@ -27,3 +29,4 @@ Para activar el entorno de trabajo en tu computadora personal, sigue los siguien
     ```bash
     conda deactivate
     ```
+### [**[Regresar al repositorio de Docencia]**](https://github.com/ENES-Merida/Docencia)
