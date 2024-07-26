@@ -7,6 +7,7 @@
 
 Accede al material del curso: [descargar.](https://github.com/ENES-Merida/taller-de-investigacion-en-ciencias-ambientales-I/archive/refs/heads/main.zip) 
 
+En la carpeta `src` está el notebook de la clase.
 
 Para activar el entorno de trabajo en tu computadora personal, sigue los siguientes pasos:
 
