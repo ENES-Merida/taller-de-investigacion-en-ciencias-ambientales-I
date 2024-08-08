@@ -17,9 +17,10 @@ Lugar: **Laboratorio de Física**.
 ---
 ## Entorno virtual con Docker  
 
-Descarga el directorio [`eneslab`](www.google.com) que aloja el entorno virtual del curso.
+Accede al material del curso: [descargar.](https://github.com/ENES-Merida/taller-de-investigacion-en-ciencias-ambientales-I/archive/refs/heads/main.zip) Descomprime el archivo zip y dirígete al directorio `eneslab`.
 
-Para construir el entorno virtual, abra una terminal y ejecute la siguiente sentencia:
+
+Para construir el entorno virtual, abra una terminal en el directorio donde te encuentras y ejecuta la siguiente sentencia:
 
 ```shell
 docker compose up
@@ -38,7 +39,7 @@ docker compose down
 
 ## Entorno virtual con Conda 
 
-Accede al material del curso: [descargar.](https://github.com/ENES-Merida/taller-de-investigacion-en-ciencias-ambientales-I/archive/refs/heads/main.zip) 
+Accede al material del curso: [descargar.](https://github.com/ENES-Merida/taller-de-investigacion-en-ciencias-ambientales-I/archive/refs/heads/main.zip) Descomprime el archivo zip.
 
 En la carpeta `src` está el notebook de la clase.
 
