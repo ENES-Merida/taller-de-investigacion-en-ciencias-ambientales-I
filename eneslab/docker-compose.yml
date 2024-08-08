@@ -1,10 +1,12 @@
 services:
   jupyter:
-    build: ./
+    build: 
+      contex: .
+      dockerfile: Dockerfile
     ports:
       - "8888:8888"
     volumes:
-      - ./:/home/jovyan/work
+      - ./:/home/jovyan/workspace
     environment:
       - JUPYTER_ENABLE_LAB=yes
       - JUPYTER_TOKEN=eneslab
