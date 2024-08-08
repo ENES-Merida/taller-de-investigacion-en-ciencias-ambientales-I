@@ -1,7 +1,7 @@
 services:
   jupyter:
     build: 
-      contex: .
+      context: .
       dockerfile: Dockerfile
     ports:
       - "8888:8888"
