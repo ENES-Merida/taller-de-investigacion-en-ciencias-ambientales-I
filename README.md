@@ -7,14 +7,17 @@
 # Bienvenidos al curso.
 ---
 
-### Horario de las sesiones:
+### Horario de las sesiones:  
+
 | Martes | Jueves |
 | :---: | :---: |
-| 10:30 - 13:00 | 10:30 - 13:00 |
+| 11:00 - 13:30 | 10:30 - 13:00 |
+| Laboratorio de Cómputo | Laboratorio de Física |  
 
-Lugar: **Laboratorio de Física**.
+¿Tienes alguna duda o quieres preguntar sobre algún tema relacionado con la asignatura? Accede a nuestro [foro](https://github.com/ENES-Merida/taller-de-investigacion-en-ciencias-ambientales-I/discussions/1) y déjanos un mensaje, te contestaremos lo más pronto posible.
 
 ---
+
 ## Entorno virtual con Docker  
 
 Accede al material del curso: [descargar.](https://github.com/ENES-Merida/taller-de-investigacion-en-ciencias-ambientales-I/archive/refs/heads/main.zip) Descomprime el archivo zip y dirígete al directorio `eneslab`.
