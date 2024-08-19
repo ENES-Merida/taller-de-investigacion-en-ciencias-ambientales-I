@@ -12,7 +12,7 @@
 | Martes | Jueves |
 | :---: | :---: |
 | 11:00 - 13:30 | 10:30 - 13:00 |
-| Laboratorio de Cómputo | Laboratorio de Física |  
+| Laboratorio de Física | Laboratorio de Cómputo |  
 
 ¿Tienes alguna duda o quieres preguntar sobre algún tema relacionado con la asignatura? Accede a nuestro [foro](https://github.com/ENES-Merida/taller-de-investigacion-en-ciencias-ambientales-I/discussions/1) y déjanos un mensaje, te contestaremos lo más pronto posible.
 
