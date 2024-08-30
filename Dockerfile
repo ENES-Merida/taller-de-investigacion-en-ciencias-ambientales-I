@@ -2,7 +2,7 @@
 FROM python:3.11
 
 # Instalar JupyterLab y las librerías necesarias
-RUN pip install jupyterlab matplotlib numpy scipy
+RUN pip install jupyterlab matplotlib numpy scipy pandas
 
 # Crear un directorio de trabajo
 WORKDIR /home/jovyan/workspace
