@@ -9,7 +9,7 @@
 
 ### Horario de las sesiones:  
 
-| Martes | Jueves |
+| Lunes | Jueves |
 | :---: | :---: |
 | 11:00 - 13:30 | 10:30 - 13:00 |
 | Laboratorio de Física | Laboratorio de Cómputo |  
