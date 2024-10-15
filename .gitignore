@@ -7,3 +7,6 @@
 # Files to ignore
 /archivos_texto_plano/*.csv
 /imagenes_notebook/*.png
+
+# Files to except ignoring
+!/archivos_texto_plano/hurricanes.csv
